@@ -1,0 +1,21 @@
+.cmt-box {
+  background-color: rgb(232, 236, 240);
+  padding: 8px;
+  border-radius: 7px;
+}
+
+.uname {
+  letter-spacing: 1px;
+  font-family: "Montserrat";
+  font-size: small;
+  font-weight: bold;
+  display: inline-block;
+}
+
+h6 {
+  display: inline-block;
+}
+
+.datetime {
+  margin-left: 30px;
+}

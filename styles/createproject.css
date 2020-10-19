@@ -1,0 +1,89 @@
+.row {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.reqd {
+  color: red;
+}
+
+input,
+textarea {
+  border-style: hidden;
+  background: #f8f9fa;
+  border-radius: 7px;
+}
+
+input[type="text"] {
+  font-size: 20px;
+}
+
+textarea {
+  font-size: 1em;
+  font-weight: bold;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+label {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 35px;
+  font-style: normal;
+  color: rgb(95, 95, 97);
+}
+
+/* Individual-styles */
+
+.p-name {
+  width: 423px;
+  height: 53px;
+}
+
+.p-desc {
+  width: 423px;
+  height: 334px;
+}
+
+.status {
+  background-color: #f8f9fa;
+  color: rgb(233, 136, 136);
+  width: 162px;
+  text-align: center;
+  height: 53px;
+  padding-top: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 35.5px;
+  display: inline-block;
+  border-radius: 7px;
+}
+
+.error-msg {
+  color: rgb(206, 47, 47);
+}
+
+select {
+  background-color: #f8f9fa;
+}
+
+.plt {
+  padding: 10px;
+}
+
+.errbox {
+  text-align: center;
+  color: rgb(141, 116, 116);
+}
+
+/* For Navigation links */
+.opts {
+  padding: 3px;
+  font-size: large;
+  font-weight: 600;
+  letter-spacing: 1px;
+  margin-top: 0%;
+  color: rgba(0, 0, 0, 0.5);
+}

@@ -1,0 +1,57 @@
+.container {
+  text-align: center;
+}
+
+.btn {
+  margin-top: 30px;
+}
+
+.header {
+  margin-top: 30px;
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(248, 148, 148);
+  font-weight: 500;
+}
+
+.subheader {
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(38, 38, 39);
+}
+
+.projects-box {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.project {
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.creator {
+  margin-left: 10px;
+  display: inline-block;
+  background-color: rgb(240, 168, 168);
+  padding: 4px;
+  border-radius: 5px;
+}
+
+h3 {
+  display: inline-block;
+}
+
+.viewmore {
+  display: inline-block;
+  padding: 4px;
+}
+
+form {
+  display: inline-block;
+}

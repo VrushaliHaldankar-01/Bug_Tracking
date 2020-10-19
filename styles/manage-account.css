@@ -1,0 +1,32 @@
+label {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 35px;
+  font-style: normal;
+}
+input[type="password"] {
+  width: 30%;
+  height: 6%;
+  padding: 12px 20px;
+  margin: 15px 0;
+  box-sizing: border-box;
+}
+input[type="submit"] {
+  width: 20%;
+  height: 5%;
+  padding: 6px 20px;
+  margin: 15px 30px 40px 50px;
+  box-sizing: border-box;
+}
+
+.header {
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(38, 38, 39);
+  font-size: large;
+}
+
+.container {
+  text-align: center;
+}

@@ -1,0 +1,102 @@
+.headers {
+  text-align: left;
+  padding-left: 20px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(252, 122, 122);
+  font-weight: 500;
+}
+
+.cont {
+  text-align: center;
+}
+
+.msg {
+  text-align: center;
+  background-color: rgb(218, 212, 212);
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  display: inline-block;
+}
+
+.projects-box {
+  text-align: left;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: #f8f9fa;
+  border-radius: 23px;
+}
+
+.issues-box {
+  margin-top: 12px;
+  text-align: left;
+  padding-bottom: 30px;
+  background-color: #e7e6ee;
+  border-radius: 23px;
+}
+
+.my-project-heading {
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(38, 38, 39);
+  padding-left: 20px;
+  font-weight: 500;
+  padding-top: 5px;
+}
+
+.headers {
+  font-family: "Montserrat";
+  font-style: normal;
+  line-height: 32.91px;
+  font-size: 27px;
+}
+
+.project-list-box {
+  margin-top: 20px;
+  top: 25px;
+  left: 15px;
+  margin: 10px;
+  border-radius: 8px;
+  background-color: white;
+}
+
+.team {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+h6 {
+  color: #885858;
+  display: inline-block;
+  margin-right: 5px;
+  margin-left: 20px;
+  font-family: sans-serif;
+}
+
+.mem {
+  padding: 2px 4px 2px 4px;
+  border-radius: 4px;
+  background-color: rgb(248, 200, 197);
+}
+
+button {
+  border-color: white;
+  border-width: 0px;
+}
+
+.btn {
+  margin-left: 13px;
+}
+
+.lol {
+  text-align: center;
+}
+
+i {
+  color: rgb(248, 148, 148);
+}

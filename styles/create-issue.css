@@ -1,0 +1,103 @@
+.row {
+  text-align: center;
+}
+
+span {
+  color: red;
+}
+
+label {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 35px;
+  font-style: normal;
+  color: rgb(95, 95, 97);
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+textarea {
+  background-color: #f8f9fa;
+  border-style: hidden;
+  border-radius: 5px;
+}
+
+.input-style {
+  padding: 15px;
+
+  background: #f8f9fa;
+  width: 300px;
+  height: 50px;
+  border-style: hidden;
+  border-radius: 7px;
+}
+
+.input-file {
+  background: #f8f9fa;
+  padding-top: 15px;
+  padding-left: 50px;
+  margin-left: 150px;
+  height: 50px;
+  border-radius: 7px;
+}
+
+.input-project {
+  background: #f8f9fa;
+  border-radius: 5px;
+  border-style: hidden;
+  width: 400px;
+  text-align: center;
+  font-family: Montserrat;
+  letter-spacing: 2px;
+}
+
+.select-dev {
+  padding-right: 85px;
+  padding-left: 85px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #f8f9fa;
+  border-style: hidden;
+  border-radius: 7px;
+  font-size: 15px;
+  font-family: Montserrat;
+  font-weight: 500;
+}
+
+/* Select box style */
+.box {
+  position: absolute;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.box select {
+  background: #f8f9fa;
+  color: black;
+  padding: 12px;
+  width: 250px;
+  border: none;
+  font-size: 20px;
+  outline: none;
+  margin-bottom: 40px;
+}
+
+.box::before {
+  content: "\f13a";
+  font-family: FontAwesome;
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 15%;
+  height: 100%;
+  text-align: center;
+  font-size: 28px;
+  line-height: 45px;
+  color: rgba(255, 255, 255, 0.5);
+  background-color: rgba(255, 255, 255, 0.1);
+  pointer-events: none;
+}

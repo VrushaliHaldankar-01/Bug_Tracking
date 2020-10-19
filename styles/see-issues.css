@@ -1,0 +1,49 @@
+.container {
+  text-align: left;
+}
+
+.header {
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(248, 148, 148);
+  font-weight: 500;
+}
+
+.subheader {
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(38, 38, 39);
+}
+
+i {
+  color: rgb(248, 148, 148);
+}
+
+.issue-box {
+  background-color: #f8f9fa;
+  border-radius: 5px;
+  padding: 10px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+.reporter {
+  background-color: rgb(255, 198, 198);
+  padding: 5px;
+  display: inline-block;
+  border-radius: 5px;
+}
+
+.type {
+  display: inline-block;
+  padding: 5px;
+}
+
+.prio {
+  display: inline-block;
+  padding: 5px;
+}
+
+button {
+  text-align: right;
+}

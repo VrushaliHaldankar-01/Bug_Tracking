@@ -1,0 +1,30 @@
+body {
+  background: url("LoginImage/login-image.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+.btn {
+  margin-top: 10%;
+}
+
+.btn-box {
+  text-align: center;
+}
+
+h2 {
+  color: rgb(11, 102, 177);
+  padding-top: 200px;
+}
+
+.modal-content {
+  text-align: center;
+}
+
+.m-header {
+  display: block;
+  text-align: center;
+}
+
+.err {
+  color: rgb(194, 5, 5);
+}

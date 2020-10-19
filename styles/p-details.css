@@ -1,0 +1,37 @@
+.projectName {
+  font-family: "Montserrat", sans-serif;
+  color: e7305b;
+  font-weight: 500;
+  font-style: normal;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  font-size: x-large;
+}
+
+.labels {
+  font-family: Montserrat Alternates;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 33px;
+}
+
+.projectDetails {
+  text-align: left;
+  padding-top: 40px;
+}
+
+.desc {
+  padding: 10px 0 10px 0;
+  text-align: left;
+  letter-spacing: 1px;
+  font-family: Montserrat Alternates;
+  font-style: normal;
+
+  font-size: 15px;
+  line-height: 20px;
+}
+
+body {
+  background-color: #ececec;
+}

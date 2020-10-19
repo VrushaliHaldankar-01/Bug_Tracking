@@ -1,0 +1,63 @@
+.header {
+  font-family: "Montserrat";
+  font-size: 18px;
+}
+
+h3 {
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(248, 148, 148);
+  font-weight: 500;
+}
+
+.status {
+  padding: 3px 3px 3px 3px;
+  border-radius: 4px;
+  display: inline-block;
+}
+
+.purple {
+  background-color: rgb(150, 73, 150);
+}
+
+.red {
+  background-color: rgb(250, 81, 81);
+}
+
+.pink {
+  background-color: rgb(255, 93, 193);
+}
+
+.orange {
+  background-color: rgb(253, 104, 59);
+}
+.yellow {
+  background-color: rgb(255, 255, 0);
+}
+.brown {
+  background-color: rgb(143, 66, 42);
+}
+
+.blue {
+  background-color: rgb(56, 123, 143);
+}
+
+.green {
+  background-color: rgb(118, 240, 87);
+}
+
+.grey {
+  background-color: rgb(142, 145, 141);
+}
+
+.st-msg {
+  color: white;
+  text-align: center;
+  font-size: 13px;
+}
+
+.type {
+  display: inline-block;
+  margin-right: 44px;
+  font-size: 18px;
+}

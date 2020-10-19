@@ -1,0 +1,105 @@
+.header {
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(248, 148, 148);
+  font-weight: 500;
+}
+
+.subheader {
+  font-family: "Montserrat";
+  letter-spacing: 1px;
+  color: rgb(38, 38, 39);
+  font-weight: bold;
+}
+
+label {
+  font-family: "Montserrat", sans-serif;
+  font-size: medium;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
+
+.status {
+  display: inline-block;
+  padding: 5px 20px 5px 20px;
+  border-radius: 4px;
+  margin-right: 20px;
+}
+
+.purple {
+  background-color: rgb(150, 73, 150);
+}
+
+.red {
+  background-color: rgb(250, 81, 81);
+}
+
+.pink {
+  background-color: rgb(255, 93, 193);
+}
+
+.orange {
+  background-color: rgb(253, 104, 59);
+}
+
+.brown {
+  background-color: rgb(143, 66, 42);
+}
+
+.blue {
+  background-color: rgb(56, 123, 143);
+}
+
+.green {
+  background-color: rgb(118, 240, 87);
+}
+
+.grey {
+  background-color: rgb(142, 145, 141);
+}
+
+.st-msg {
+  color: white;
+  font-weight: 500;
+}
+
+.datetime,
+.version,
+.priority,
+.type,
+.reporter {
+  display: inline-block;
+  font-size: medium;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  margin-left: 30px;
+}
+
+hr {
+  padding-top: 2px;
+  background-color: rgb(99, 89, 89);
+}
+
+/* ---------------- FOR DISCUSSIONS ------------------ */
+
+.cmt-box {
+  background-color: rgb(232, 236, 240);
+  padding: 8px;
+  border-radius: 7px;
+}
+
+.uname {
+  letter-spacing: 1px;
+  font-family: "Montserrat";
+  font-size: small;
+  font-weight: bold;
+  display: inline-block;
+}
+
+h6 {
+  display: inline-block;
+}
+
+.datetime {
+  margin-left: 30px;
+}
